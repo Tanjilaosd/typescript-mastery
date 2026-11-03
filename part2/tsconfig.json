@@ -1,0 +1,27 @@
+{
+  // Visit https://aka.ms/tsconfig to read more about this file
+  "compilerOptions": {
+   
+    
+    "target": "esnext",
+  
+    
+    
+   
+    
+
+    
+    
+
+    // Recommended Options
+    "strict": true,
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "module": "esnext",
+    "verbatimModuleSyntax": true,
+    "isolatedModules": true,
+    "noUncheckedSideEffectImports": true,
+    "moduleDetection": "force",
+    "skipLibCheck": true,
+  }
+}
